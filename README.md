@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creatorxd
-- 🌱 I’m currently learning html css and js with react js ...
+- 🌱 mastered react js and css tailwind...
 - 😄 once a learner now being a creator 
 - ⚡ 
 
