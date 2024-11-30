@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creatorxd
-- 🌱 mastered react js and css tailwind...
+- 🌱 mastered react js and MERN stack...
 -    A full time react developer !
 - 😄 once a learner now being a creator 
 - ⚡ 
